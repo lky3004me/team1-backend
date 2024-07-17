@@ -46,3 +46,8 @@
 
 ##아키텍쳐 설계도
 ![스크린샷 2024-07-17 101138](https://github.com/user-attachments/assets/e6b36d63-8289-4635-8ed2-db5799cad85e)
+
+##배포 사이트
+- https://goldenteam.site/
+
+
