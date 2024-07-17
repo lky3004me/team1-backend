@@ -34,12 +34,15 @@
  
   **AI 기반 답변 피드백 서비스**
   - 제출한 응답을 바탕으로 OpenAI api를 사용하여 피드백을 제공함
- 
-![스크린샷 2024-07-17 101119](https://github.com/user-attachments/assets/98f054aa-ff35-4129-a0f4-5996ec95f249)
 
-![스크린샷 2024-07-17 101127](https://github.com/user-attachments/assets/3213b85f-1dbb-4f07-847e-ac5d2ffe5751)
-
-![스크린샷 2024-07-17 101138](https://github.com/user-attachments/assets/e6b36d63-8289-4635-8ed2-db5799cad85e)
-
+##개발 과정
 ![스크린샷 2024-07-17 101148](https://github.com/user-attachments/assets/2b824394-f63b-4e45-8e63-498ac4b32cc3)
 
+##API 명세서
+![스크린샷 2024-07-17 101127](https://github.com/user-attachments/assets/3213b85f-1dbb-4f07-847e-ac5d2ffe5751)
+
+ ##ER Diagram
+![스크린샷 2024-07-17 101119](https://github.com/user-attachments/assets/98f054aa-ff35-4129-a0f4-5996ec95f249)
+
+##아키텍쳐 설계도
+![스크린샷 2024-07-17 101138](https://github.com/user-attachments/assets/e6b36d63-8289-4635-8ed2-db5799cad85e)
